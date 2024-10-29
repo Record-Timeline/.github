@@ -129,7 +129,7 @@
 ## 👩🏻‍💻 작업 및 역할 분담
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| 박현빈     |  <img src="https://avatars.githubusercontent.com/u/90017767?v=4" alt="박현빈" width="100"> | <ul><li>회원가입 및 로그인 기능 구현</li><li>본인 관심분야에 맞춘 사용자 및 게시글 추천 기능 구현</li><li>검색 기능 구현</li><li>팔로우/팔로잉 기능 구현</li><li>알림 기능 구현 </li><li>경력사항 입력 및 조회 기능 구현</li></ul>     |
+| 박현빈     |  <img src="https://avatars.githubusercontent.com/u/90017767?v=4" alt="박현빈" width="100"> | <ul><li>회원가입 및 로그인 기능 구현</li><li>본인 관심분야에 맞춘 사용자 및 게시글 추천 기능 구현</li><li>검색 기능 구현</li><li>팔로우/팔로잉 기능 구현</li><li>실시간 알림 기능 구현 </li><li>경력사항 입력 및 조회 기능 구현</li></ul>     |
 | 김사라   |  <img src="https://avatars.githubusercontent.com/u/65291809?v=4" alt="김사라" width="100">| <ul><li>메인 타임라인 페이지 구현</li><li>서브 타임라인 페이지 구현</li><li>북마크 페이지 구현</li><li>댓글/대댓글 페이지 구현</li><li>경력사항 입력 및 조회 페이지 구현</li></ul> |
 | 김소희   |  <img src="https://avatars.githubusercontent.com/u/79906093?v=4" alt="김소희" width="100">    |<ul><li>로그인 및 회원가입 페이지 구현</li><li>검색 페이지 구현</li><li>팔로우/팔로잉 목록 페이지 구현</li><li>알림 페이지 구현</li><li>타임라인 pdf 변환 기능</li></ul>  |
 | 오유경    |  <img src="https://avatars.githubusercontent.com/u/90410766?v=4" alt="오유경" width="100">    | <ul><li>메인 타임라인 기능 구현</li><li>서브 타임라인 기능 구현</li><li>타임라인 공개 여부 설정 기능</li><li>타임라인 좋아요/북마크 기능 구현</li><li>댓글/대댓글 기능 구현</li></ul>    |
